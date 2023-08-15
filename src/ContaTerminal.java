@@ -43,7 +43,7 @@ public class ContaTerminal {
         return balance;
     }
 
-    public ContaTerminal(int number, String ag, String clientName, float balance) {
+    public ContaTerminal(int number, String ag , String clientName, float balance) {
         this.number = number;
         this.ag = ag;
         this.clientName = clientName;
